@@ -93,6 +93,7 @@ body {
 /* || HOME */
 
 .Home {
+  padding: 1.5rem;
   margin-top: 50px;
   display: flex;
   flex-flow: column nowrap;
@@ -149,6 +150,7 @@ body {
 } */
 
 .QuizPage {
+  padding: 1.5rem;
   margin-top: 50px;
   display: flex;
   flex-flow: column nowrap;
@@ -169,26 +171,6 @@ body {
 .QuizPage .firstSection h1 {
   margin-bottom: 50px;
 }
-
-/* .QuizPage .firstSection div {
-  font-size: 1rem;
-  height: 48px;
-  border-radius: 10px;
-  background-color: var(--BUTTON-BGCOLOR);
-  color: var(--BUTTON-COLOR);
-  
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.QuizPage .firstSection  a,
-.QuizPage .firstSection a:visited
-{
-  color: var(--FONT-COLOR);
-  text-decoration: none;
-} */
-
 
 .QuizPage .secondSection {
   display: flex;
@@ -232,6 +214,7 @@ body {
 /* || QUIZ SCORE */
 
 .QuizScore {
+  padding: 1.5rem;
   margin-top: 50px;
   display: flex;
   flex-flow: column nowrap;
