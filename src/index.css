@@ -94,7 +94,7 @@ body {
 
 .Home {
   padding: 1.5rem;
-  margin-top: 50px;
+  margin-top: 10px;
   display: flex;
   flex-flow: column nowrap;
 }
@@ -151,7 +151,7 @@ body {
 
 .QuizPage {
   padding: 1.5rem;
-  margin-top: 50px;
+  margin-top: 10px;
   display: flex;
   flex-flow: column nowrap;
 }
@@ -215,7 +215,7 @@ body {
 
 .QuizScore {
   padding: 1.5rem;
-  margin-top: 50px;
+  margin-top: 10px;
   display: flex;
   flex-flow: column nowrap;
 }
